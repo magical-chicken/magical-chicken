@@ -1,6 +1,4 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=magical-chicken&label=Profile%20views&color=0e75b6&style=flat" alt="magical-chicken" /> </p>
-<p align= "left"> <img src"https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW5jajc2bXM0NDRsdjhmcWJqZmU5aGZveHVxeGtleDd2b3M1amU4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eruVMzXlb70oo/giphy.gif" /> </p>
 <p align="left"> <img src="https://www.codewars.com/users/labubu_eater/badges/large" alt="labubu_eater"/></p>
 
 <h3 align="left">Languages and Tools:</h3>
